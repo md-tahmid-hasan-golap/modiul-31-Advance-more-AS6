@@ -125,6 +125,6 @@ const Friends = ["basar", "masum", "imrul", "raj", "akash"];
 //     console.log(friend)
 // }
 
-const friendArray = Friends.map(friend => console.log(friend))
-console.log(friendArray)
+// const friendArray = Friends.map(friend => console.log(friend))
+// console.log(friendArray)
 
