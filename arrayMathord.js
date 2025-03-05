@@ -17,11 +17,11 @@ const products = [
 //     console.log(product)
 // }
 
-products.forEach(product =>{
-    // if(product.color === "black")
-    //     console.log(product)
+// products.forEach(product =>{
+//     // if(product.color === "black")
+//     //     console.log(product)
 
-    if(product.price >= 1000){
-        console.log(product)
-    }
-})
+//     if(product.price >= 1000){
+//         console.log(product)
+//     }
+// })
